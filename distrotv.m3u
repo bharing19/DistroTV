@@ -289,7 +289,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGGlewed TV Spanish" tvg-name="GlewedTV Spanish" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="Spanish & International",GlewedTV Spanish
 https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="Spanish & International",El Conflicto TV
-https://content-ause2-up-1.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f/e.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20211020_185655_68.png" group-title="Spanish & International",AfroLand TV
 https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=distro
+#EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="Spanish & International",El Conflicto TV
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
