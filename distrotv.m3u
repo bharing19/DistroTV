@@ -187,7 +187,7 @@ https://a664d95a53d042edb10d6b28889bd25c.mediatailor.us-west-2.amazonaws.com/v1/
 https://7c1bdc148c1f4998b84f4a4f92eebc63.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_distrotv/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Only 90s Kids Will Understand" tvg-logo="https://a.jsrdn.com/hls/22895/only-90s-kids-will-understand/logo_20210428_185951_68.png" group-title="Music",Only 90s Kids Will Understand
 https://21835c8ec5b74cf892ad0d6e12344ae9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="That Hot" tvg-logo="https://a.jsrdn.com/hls/22895/thats-hot/logo_20200909_010555_68.png" group-title="Music",That' Hot
+#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Thats Hot" tvg-logo="https://a.jsrdn.com/hls/22895/thats-hot/logo_20200909_010555_68.png" group-title="Music",That's Hot
 https://a9c952d731a2427d8e01903d3778c601.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_distrotv/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Like Yesterday" tvg-logo="https://a.jsrdn.com/hls/22895/like-yesterday/logo_20200909_014621_68.png" group-title="Music",Like Yesterday
 https://bc3fa319cf6642c59e1128318f1a9cd9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_distrotv/master.m3u8
