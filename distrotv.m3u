@@ -79,7 +79,7 @@ https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g/d8bmaster.m3u8
 https://dai.google.com/linear/hls/event/Fw4LxyUeSguJOatToVIt4g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="Documentaries",Docurama
 https://dai.google.com/linear/hls/event/RnTwIVTKSIyo2BYRKBeUFA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20211103_165813_68.png" group-title="Documentaries",Heritage+
+#EXTINF:-1 tvg-id="" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22886/heritage/logo_20211019_211743_68.png" group-title="Documentaries",Heritage+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Documentaries",Journy
 https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
@@ -257,7 +257,7 @@ https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
 https://dai.google.com/linear/hls/event/K0CroFOZQXquDasQ7JTQlg/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYKOB4Albuquerque" tvg-name="KOB 4 Albuquerque New Mexico" tvg-logo="https://a.jsrdn.com/hls/22972/kob-4-albuquerque-new-mexico/logo_20210625_210331_70.png" group-title="Local News",KOB 4 Albuquerque New Mexico
 https://dai.google.com/linear/hls/event/iLCt8oaAROmxEXufGhRchw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5 Eyewitness News KSTP Minneapolis-StPaul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="Local News",5 Eyewitness News KSTP Minneapolis-St.Paul
+#EXTINF:-1 tvg-id="DUMMY5EyewitnessNewsKSTP" tvg-name="5 Eyewitness News KSTP Minneapolis-StPaul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="Local News",5 Eyewitness News KSTP Minneapolis-St.Paul
 https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYWDIONewsDuluth" tvg-name="WDIO News Duluth-Superior" tvg-logo="https://a.jsrdn.com/hls/22972/wdio-news-duluth-superior/logo_20210625_210817_68.png" group-title="Local News",WDIO News Duluth-Superior
 https://dai.google.com/linear/hls/event/nVudk3kWQL2KN9zrsjekyA/master.m3u8
