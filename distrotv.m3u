@@ -27,6 +27,8 @@ https://dai.google.com/linear/hls/event/BJzzeejcQSuZnJ1ujMx_Cg/master.m3u8
 https://dai.google.com/linear/hls/event/oE64ATdbSpSCeeMsjLiKXA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMonarch" tvg-name="Monarch Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/monarch/logo_20191212_203358.png" group-title="Entertainment",Monarch Channel
 https://dai.google.com/linear/hls/event/bXkdmU1OQk28qk_f-JN5bw/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYEPGComingSoon" tvg-name="Ovations Mystery Alley" tvg-logo="https://a.jsrdn.com/hls/22944/ovations-mystery-alley/logo_20211021_193540_68.png" group-title="Entertainment",Ovation's Mystery Alley
+https://dai.google.com/linear/hls/event/PYxv7h1wQBqfqMjaZjNaDA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPeopleTV" tvg-name="People TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22785/peopletv/logo_20191212_175415.png" group-title="Entertainment",People TV
 https://dai.google.com/linear/hls/event/mdUCfji2S4K6i7oTS8mkqA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPopstar! TV" tvg-name="Popstar!TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22783/popstar-tv/logo_20200424_154734.png" group-title="Entertainment",Popstar!TV
@@ -77,6 +79,8 @@ https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g/d8bmaster.m3u8
 https://dai.google.com/linear/hls/event/Fw4LxyUeSguJOatToVIt4g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="Documentaries",Docurama
 https://dai.google.com/linear/hls/event/RnTwIVTKSIyo2BYRKBeUFA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20211103_165813_68.png" group-title="Documentaries",Heritage+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Documentaries",Journy
 https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYMagellanTV" tvg-name="Magellan TV" tvg-logo="https://a.jsrdn.com/hls/22887/magellan/logo_20200821_224844_68.png" group-title="Documentaries",Magellan TV
@@ -101,6 +105,8 @@ https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 https://dai.google.com/linear/hls/event/NPrV9s3FSOKJCHQA-7QC6w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png" group-title="Fun & Games",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="DUMMYEPGComingSoon" tvg-name="ACL Cornhole TV" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20211103_165813_68.png" group-title="Sports",ACL Cornhole TV
+https://dai.google.com/linear/hls/event/9q__U86IQg-hpeGsp2dE2g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGAdventure Sports" tvg-name="Adventure Sports TV" tvg-logo="https://a.jsrdn.com/hls/22889/adventure-sports-tv/logo_20200910_015603_70.png" group-title="Sports",Adventure Sports TV
 https://dai.google.com/linear/hls/event/KP9pZkHDTmOM9I3KseqrRw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGCampusLore Sports" tvg-name="CampusLore Sports" tvg-logo="https://a.jsrdn.com/hls/22930/campuslore-sports/logo_20210916_225147_68.png" group-title="Sports",CampusLore Sports
