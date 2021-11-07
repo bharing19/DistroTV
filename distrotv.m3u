@@ -251,7 +251,7 @@ https://dai.google.com/linear/hls/event/c-oMNcDLTeuszRKPugMj9Q/master.m3u8
 https://dai.google.com/linear/hls/event/w1MibCcKRru79YByukViXg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGTD Ameritrade Network" tvg-name="TD Ameritrade Network" tvg-logo="https://a.jsrdn.com/hls/22849/ameritrade/logo_20200723_221433_48.png" group-title="News & Opinion",TD Ameritrade Network
 https://dai.google.com/linear/hls/event/oQS2LgwIScKmhvKfySHSuA/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGWION World is One News" tvg-name="WION" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png" group-title="News & Opinion",WION
+#EXTINF:-1 tvg-id="DUMMYWION" tvg-name="WION" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png" group-title="News & Opinion",WION
 https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYABC6NewsRochester" tvg-name="ABC 6 News Rochester-Austin MN" tvg-logo="https://a.jsrdn.com/hls/22972/abc-6-news-rochester-austin-mn/logo_20210727_191445_68.png" group-title="Local News",ABC 6 News Rochester-Austin MN
 https://dai.google.com/linear/hls/event/K0CroFOZQXquDasQ7JTQlg/master.m3u8
