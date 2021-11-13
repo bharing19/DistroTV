@@ -123,6 +123,20 @@ https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=26
 https://dai.google.com/linear/hls/event/NPrV9s3FSOKJCHQA-7QC6w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png" group-title="Fun & Games",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/logo_20210112_230210_70.png" group-title="Travel & Lifestyle",AWE Plus
+https://dai.google.com/linear/hls/event/hefJPxVlTzWqtmz9UpFbwQ/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYbspoketv" tvg-name="Bspoketv" tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv-us/logo_20200603_013535.png" group-title="Travel & Lifestyle",Bspoketv
+https://bspoketv.s.llnwi.net/streams/distrotv-usa/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGCooking Panda" tvg-name="Cooking Panda" tvg-logo="https://a.jsrdn.com/hls/22882/cooking-panda/logo_20201006_170137_68.png" group-title="Travel & Lifestyle",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 tvg-id="dtv_EPGHERITAGE +" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22886/heritage/logo_20211019_211743_68.png" group-title="Travel & Lifestyle",Heritage+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Travel & Lifestyle",Journy
+https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYshoplc" tvg-name="Shop LC" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20210419_230336_68.png" group-title="Travel & Lifestyle",Shop LC
+https://dai.google.com/linear/hls/event/nANxB7juRzWgEvqGuiaudg/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGThe Love Destination" tvg-name="The Love Destination" tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="Travel & Lifestyle",The Love Destination
+https://api-ott.thelovedestination.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1635&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
 #EXTINF:-1 tvg-id="DUMMYACCDN" tvg-name="ACCDN" tvg-logo="https://a.jsrdn.com/hls/22820/acc-1/logo_20200526_193857.png" group-title="Sports",ACCDN
 https://dai.google.com/linear/hls/event/yTGvKT7bT7KYi5FXpQLetQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGACL Cornhole TV" tvg-name="ACL Cornhole TV" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/logo_20211103_165813_68.png" group-title="Sports",ACL Cornhole TV
@@ -303,6 +317,24 @@ https://dai.google.com/linear/hls/event/nVudk3kWQL2KN9zrsjekyA/master.m3u8
 https://dai.google.com/linear/hls/event/DRMYHLrBQJm5gchjz8PK8A/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYNewsChannel13Albany" tvg-name="NewsChannel 13 WNYT Albany NY" tvg-logo="https://a.jsrdn.com/hls/22972/newschannel-13-wnyt-albany-ny/logo_20210625_211352_68.png" group-title="Local News",NewsChannel 13 WNYT Albany NY
 https://dai.google.com/linear/hls/event/YeZ0zrrmRraYWskBKnbkoA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20211020_185655_68.png" group-title="Spanish & International",AfroLand TV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=distro
+#EXTINF:-1 tvg-id="dtv_EPGCanela TV" tvg-name="CanelaTV" tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/logo_20200930_060553_68.png" group-title="Spanish & International",Canela.TV
+https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1205&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="Spanish & International",El Conflicto TV
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGEuronews Español" tvg-name="Euronews Espanol" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20201208_233556_68.png" group-title="Spanish & International",Euronews Espanol
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/ewnsabres_spa.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGGlewed TV Spanish" tvg-name="GlewedTV Spanish" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="Spanish & International",GlewedTV Spanish
+https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGLatido Music" tvg-name="Latido Music" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22782/latido-music/logo_20191212_200115.png" group-title="Spanish & International",Latido Music
+https://dai.google.com/linear/hls/event/aPiz7a7gSxmsTO1cZ1DHeQ/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGMooviMex" tvg-name="MooviMex" tvg-logo="https://a.jsrdn.com/hls/22922/moovimex/logo_20201120_235617_26.png" group-title="Spanish & International",MooviMex
+https://dai.google.com/linear/hls/event/lj5QQH_5RX-yR2kwvxaiNg/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGPinoy Box Office" tvg-name="Pinoy Box Office" tvg-logo="https://a.jsrdn.com/hls/22913/pinoy-box-office/logo_20210119_204719_70.png" group-title="Spanish & International",Pinoy Box Office
+https://dai.google.com/linear/hls/event/85A5PwweTeKSM8y8h0yHhw/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGWappTV" tvg-name="WappTV" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20210805_160400_68.png" group-title="Spanish & International",WappTV
+https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="Republic World" tvg-logo="https://a.jsrdn.com/hls/22962/republic-world/logo_20211019_171505_68.png" group-title="Desi - Indian & South Asian",Republic World
 https://dai.google.com/linear/hls/event/buVDRAFXSy-cIVXRd8XwZg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMastiii - India’s No.1 Music and Youth Channel" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" group-title="Desi - Indian & South Asian",Mastiii
@@ -327,35 +359,3 @@ https://dai.google.com/linear/hls/event/yNRrz0sfQVqnHctUEq9dZg/master.m3u8
 https://dai.google.com/linear/hls/event/jyAhWsXeQjKtvXWsYd2vHA/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="Times Now Navbharat" tvg-logo="https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20210727_192118_68.png" group-title="Desi - Indian & South Asian",Times Now Navbharat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/WICioQJ2FO/c.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20211020_185655_68.png" group-title="Spanish & International",AfroLand TV
-https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=distro
-#EXTINF:-1 tvg-id="dtv_EPGCanela TV" tvg-name="CanelaTV" tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/logo_20200930_060553_68.png" group-title="Spanish & International",Canela.TV
-https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1205&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
-#EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="Spanish & International",El Conflicto TV
-https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGEuronews Español" tvg-name="Euronews Espanol" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20201208_233556_68.png" group-title="Spanish & International",Euronews Espanol
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/ewnsabres_spa.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGGlewed TV Spanish" tvg-name="GlewedTV Spanish" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="Spanish & International",GlewedTV Spanish
-https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGLatido Music" tvg-name="Latido Music" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22782/latido-music/logo_20191212_200115.png" group-title="Spanish & International",Latido Music
-https://dai.google.com/linear/hls/event/aPiz7a7gSxmsTO1cZ1DHeQ/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGMooviMex" tvg-name="MooviMex" tvg-logo="https://a.jsrdn.com/hls/22922/moovimex/logo_20201120_235617_26.png" group-title="Spanish & International",MooviMex
-https://dai.google.com/linear/hls/event/lj5QQH_5RX-yR2kwvxaiNg/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGPinoy Box Office" tvg-name="Pinoy Box Office" tvg-logo="https://a.jsrdn.com/hls/22913/pinoy-box-office/logo_20210119_204719_70.png" group-title="Spanish & International",Pinoy Box Office
-https://dai.google.com/linear/hls/event/85A5PwweTeKSM8y8h0yHhw/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGWappTV" tvg-name="WappTV" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20210805_160400_68.png" group-title="Spanish & International",WappTV
-https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/logo_20210112_230210_70.png" group-title="Travel & Lifestyle",AWE Plus
-https://dai.google.com/linear/hls/event/hefJPxVlTzWqtmz9UpFbwQ/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYbspoketv" tvg-name="Bspoketv" tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv-us/logo_20200603_013535.png" group-title="Travel & Lifestyle",Bspoketv
-https://bspoketv.s.llnwi.net/streams/distrotv-usa/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGCooking Panda" tvg-name="Cooking Panda" tvg-logo="https://a.jsrdn.com/hls/22882/cooking-panda/logo_20201006_170137_68.png" group-title="Travel & Lifestyle",Cooking Panda
-https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
-#EXTINF:-1 tvg-id="dtv_EPGHERITAGE +" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22886/heritage/logo_20211019_211743_68.png" group-title="Travel & Lifestyle",Heritage+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Travel & Lifestyle",Journy
-https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYshoplc" tvg-name="Shop LC" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20210419_230336_68.png" group-title="Travel & Lifestyle",Shop LC
-https://dai.google.com/linear/hls/event/nANxB7juRzWgEvqGuiaudg/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGThe Love Destination" tvg-name="The Love Destination" tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="Travel & Lifestyle",The Love Destination
-https://api-ott.thelovedestination.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1635&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
