@@ -7,6 +7,8 @@ https://dai.google.com/linear/hls/event/ikbjod17R3y9y9W4QO8cSw/master.m3u8
 https://dai.google.com/linear/hls/event/zHy7ojUBQqOoi5b1Aj-qUQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="https://a.jsrdn.com/hls/22882/christmas-classics/logo_20201215_013924_68.png" group-title="Entertainment",Christmas Classics
 https://api-ott-ottpri-sl.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=937&partner=distro
+#EXTINF:-1 tvg-id="DUMMYcinepride" tvg-name="Cinepride" tvg-logo="https://a.jsrdn.com/hls/22915/cinepride/logo_20210708_153142_70.png" group-title="Entertainment",Cinepride
+https://ssai.gumgum.com/gs/stream/master/invincible/hls?stream_url=https%3A%2F%2Fcontent.uplynk.com%2Fchannel%2Fe54d7e92a0154d67ae0770c9d4210e77.m3u8?ad=distrotv_cinepride&ad.pod_max_dur=120&ad.pod_ad_slots=3&ad.preroll=1&ad.postroll=1&ad.w=530&ad.h=298&ad.domain=https://www.galxy.tv/freetv&ad.app_bundle=&ad.app_name=DistroTV&ad.app_store_url=https://www.distro.tv/live/cinepride&ad.us_privacy=__usPrivacy__&ad.media_transcoding=high&ad.ssai.enabled=1&ad.ssai.vendor=Uplynk&ad._debug=invincibletest
 #EXTINF:-1 tvg-id="dtv_EPGCircle" tvg-name="Circle" tvg-logo="https://a.jsrdn.com/hls/22961/circle-tv/logo_20210617_181258_68.png" group-title="Entertainment",Circle
 https://dai.google.com/linear/hls/event/7yXZRrG-TkWklMTpEx4sNw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGCJC Television Network" tvg-name="CJC" tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20200819_003239_68.png" group-title="Entertainment",CJC
@@ -17,6 +19,8 @@ https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 https://dai.google.com/linear/hls/event/hAOgbga4SISbmj39pzKQwA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGCONtv" tvg-name="ConTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="Entertainment",ConTV
 https://dai.google.com/linear/hls/event/ldvEXVEQQO-qemwOCkh6YQ/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGElectricNOW" tvg-name="Electric Now" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22764/electricnow/logo_20191212_183017.png" group-title="Entertainment",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=532&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=b1bd4341dee50d0a7c0cdf44906177ab&app_bundle=com.electric.now&app_store_url=https://www.electricnow.tv/devices&app_domain=electricnow.tv&app_name=electricnow&custom_targeting=html5&custom_4=distro&h=720&w=1280&content_channel=electricnow&content_dist_name=distro&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1
 #EXTINF:-1 tvg-id="dtv_EPGFuse" tvg-name="Fuse Backstage" tvg-logo="https://a.jsrdn.com/hls/22959/fuse-1/logo_20210426_150938_70.png" group-title="Entertainment",Fuse Backstage
 https://dai.google.com/linear/hls/event/XvQlwBGiQ_OxLxVvoy7GtA/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYGalxyTV" tvg-name="Galxy TV" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/logo_20201029_013656_68.png" group-title="Entertainment",Galxy TV
@@ -29,6 +33,8 @@ https://dai.google.com/linear/hls/event/BJzzeejcQSuZnJ1ujMx_Cg/master.m3u8
 https://dai.google.com/linear/hls/event/oE64ATdbSpSCeeMsjLiKXA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMonarch" tvg-name="Monarch Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/monarch/logo_20191212_203358.png" group-title="Entertainment",Monarch Channel
 https://dai.google.com/linear/hls/event/bXkdmU1OQk28qk_f-JN5bw/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGOML on Revry" tvg-name="OML on Revry" tvg-logo="https://a.jsrdn.com/hls/22919/oml-on-revry/logo_20210312_090440_68.png" group-title="Entertainment",OML on Revry
+https://dai.google.com/linear/hls/event/yzKt3VIDRMihz3qTh_IzwA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGOvation’s Mystery Alley" tvg-name="Ovations Mystery Alley" tvg-logo="https://a.jsrdn.com/hls/22944/ovations-mystery-alley/logo_20211021_193540_68.png" group-title="Entertainment",Ovation's Mystery Alley
 https://dai.google.com/linear/hls/event/PYxv7h1wQBqfqMjaZjNaDA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPeopleTV" tvg-name="People TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22785/peopletv/logo_20191212_175415.png" group-title="Entertainment",People TV
@@ -37,6 +43,10 @@ https://dai.google.com/linear/hls/event/mdUCfji2S4K6i7oTS8mkqA/master.m3u8
 https://live-mcl.cdn01.net/web/a575y589m/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPopstar! TV" tvg-name="Popstar!TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22783/popstar-tv/logo_20200424_154734.png" group-title="Entertainment",Popstar!TV
 https://dai.google.com/linear/hls/event/vZXp3NWzRMO8gfuH_xl5BQ/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGRevry" tvg-name="Revry" tvg-logo="https://a.jsrdn.com/hls/22919/revry-2/logo_20210529_004850_68.png" group-title="Entertainment",Revry
+https://dai.google.com/linear/hls/event/utfgO3fURDKz_QIYRvd_Ow/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYrevrynews" tvg-name="Revry News" tvg-logo="https://a.jsrdn.com/hls/22919/revry-news/logo_20210312_090624_68.png" group-title="Entertainment",Revry News
+https://dai.google.com/linear/hls/event/CZjM5fbvSvW8dg4YTXqIyg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGThe Grid" tvg-name="The Grid" tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20200819_003042_68.png" group-title="Entertainment",The Grid
 https://dai.google.com/linear/hls/event/PZ4CB1RLRc2P5h6KMJlvlQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGUs Weekly TV" tvg-name="US Weekly TV" tvg-logo="https://a.jsrdn.com/hls/22950/us-weekly-tv/logo_20210323_165634_68.png" group-title="Entertainment",US Weekly TV
@@ -83,10 +93,8 @@ https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g/d8bmaster.m3u8
 https://dai.google.com/linear/hls/event/Fw4LxyUeSguJOatToVIt4g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="Documentaries",Docurama
 https://dai.google.com/linear/hls/event/RnTwIVTKSIyo2BYRKBeUFA/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGHERITAGE +" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22886/heritage/logo_20211019_211743_68.png" group-title="Documentaries",Heritage+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Documentaries",Journy
-https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYeverydayheroes" tvg-name="Everyday Heroes" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/everyday-heroes/logo_20191220_200631.png" group-title="Documentaries",Everyday Heroes
+https://dai.google.com/linear/hls/event/_gcE8OjxSS-fYFlsXHd8Ew/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYMagellanTV" tvg-name="Magellan TV" tvg-logo="https://a.jsrdn.com/hls/22887/magellan/logo_20200821_224844_68.png" group-title="Documentaries",Magellan TV
 https://dai.google.com/linear/hls/event/s3yrxp8wSTCEcpHR4FoT5Q/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMilitaryTimes" tvg-name="Military Times" tvg-logo="https://a.jsrdn.com/hls/22930/sightline/logo_20211019_173405_68.png" group-title="Documentaries",Military Times
@@ -101,10 +109,16 @@ https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 https://dai.google.com/linear/hls/event/wz66Z3nvSWyab3gJZm8uJQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGBilliard TV" tvg-name="Billiard TV" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20210622_195956_68.png" group-title="Fun & Games",Billiard TV
 https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGDot Esports" tvg-name="Dot Esports" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20200917_065552_65.png" group-title="Fun & Games",Dot Esports
+https://dai.google.com/linear/hls/event/rAyedvwTSYmwf6Mhi1aoLg/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYdungeon" tvg-name="Dungeon TV" tvg-logo="https://a.jsrdn.com/hls/22915/dungeon-tv/logo_20201029_011654_68.png" group-title="Fun & Games",Dungeon TV
+https://ssai.gumgum.com/gs/stream/master/invincible/hls?stream_url=https%3A%2F%2Fcontent.uplynk.com%2Fchannel%2F5688add7ce704ce1a27ab62bb44044b9.m3u8?ad=distrotv_dungeontv&ad.pod_max_dur=120&ad.pod_ad_slots=3&ad.preroll=1&ad.postroll=1&ad.w=530&ad.h=298&ad.domain=https://www.galxy.tv/freetv&ad.app_bundle=&ad.app_name=DistroTV&ad.app_store_url=https://www.distro.tv/live/dungeon-tv&ad.us_privacy=__usPrivacy__&ad.media_transcoding=high&ad.ssai.enabled=1&ad.ssai.vendor=Uplynk&ad._debug=invincibletest
 #EXTINF:-1 tvg-id="dtv_EPGfw.tv" tvg-name="fwtv" tvg-logo="https://a.jsrdn.com/hls/22914/homme/logo_20210412_194703_69.png" group-title="Fun & Games",fw.tv
 https://dai.google.com/linear/hls/event/xmxFy3eHTmCXmmcA92GUFQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGKaloopy" tvg-name="Kaloopy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20200609_231841.png" group-title="Fun & Games",Kaloopy
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGSKWAD" tvg-name="Skwadl" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20201005_155120_68.png" group-title="Fun & Games",Skwadl
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=263537&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
 #EXTINF:-1 tvg-id="dtv_EPGTronTV" tvg-name="TronTV" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20201016_172929_68.png" group-title="Fun & Games",TronTV
 https://dai.google.com/linear/hls/event/NPrV9s3FSOKJCHQA-7QC6w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png" group-title="Fun & Games",World Poker Tour
@@ -127,6 +141,8 @@ https://dai.google.com/linear/hls/event/1an25xSeQuGB_J2IdoZ8Dg/master.m3u8
 https://dai.google.com/linear/hls/event/VoZhF0i4SJ2t5_GdpIPCJA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGFloSports High Impact" tvg-name="FloSports High Impact" tvg-logo="https://a.jsrdn.com/hls/22883/flo-high-impact/logo_20201106_225201_68.png" group-title="Sports",FloSports High Impact
 https://dai.google.com/linear/hls/event/-RDDK5cMTX2_sGoD9bgCZA/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYftfsports" tvg-name="FTF Sports" tvg-logo="https://a.jsrdn.com/hls/22729/eleven-sports/logo_20211025_165649_68.png" group-title="Sports",FTF Sports
+https://dai.google.com/linear/hls/event/KyklmaFiQ3W5CIBeyl5jvg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGGlewed Yoga & Fitness" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/logo_20200917_223146_70.png" group-title="Sports",GlewedTV Yoga & Fitness
 https://dai.google.com/linear/hls/event/ZfRDBl7PQxy3VjWN0c03VA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGHard Knocks" tvg-name="Hard Knocks" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/logo_20200420_183430.png" group-title="Sports",Hard Knocks
@@ -155,6 +171,8 @@ https://content.uplynk.com/channel/b24d76aa33a64c0390d5c75c2c7cda42.m3u8?ad=dist
 https://dai.google.com/linear/hls/event/ISc3OFInSwiQeBXP5MZLTg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGSportskool TV" tvg-name="Sportskool TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="Sports",Sportskool TV
 https://dai.google.com/linear/hls/event/zFTmvCd0RSel2GpV4QkykA/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYstadium" tvg-name="Stadium" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22820/stadium/logo_20200331_211046.png" group-title="Sports",Stadium
+https://dai.google.com/linear/hls/event/-0aMAGbWS5-zWOJyp0H7nQ/stream/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGStrongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://a.jsrdn.com/hls/22974/strongman-champions-league-1/logo_20210727_170926_70.png" group-title="Sports",Strongman Champions League
 https://dai.google.com/linear/hls/event/09xphPXPS4qRlr_PAIrkVA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGThe Boat Show" tvg-name="The Boat Show" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/logo_20191213_002045.png" group-title="Sports",The Boat Show
@@ -261,12 +279,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dai.google.com/linear/hls/event/Yl7vtVj3Qoy0G74M13ffoA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="News & Opinion",Newsy
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+#EXTINF:-1 tvg-id="DUMMYoanplus" tvg-name="OAN Plus" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/logo_20210112_225329_70.png" group-title="News & Opinion",OAN Plus
+https://dai.google.com/linear/hls/event/k2Xnhxd-RKWhEPwnsyWhdw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGReal America's Voice" tvg-name="Real Americas Voice" tvg-logo="https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20210901_213538_68.png" group-title="News & Opinion",Real America's Voice
 https://dai.google.com/linear/hls/event/c-oMNcDLTeuszRKPugMj9Q/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGReal Vision" tvg-name="Real Vision" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22769/real-vision-1/logo_20200305_182402.png" group-title="News & Opinion",Real Vision
 https://dai.google.com/linear/hls/event/w1MibCcKRru79YByukViXg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGTD Ameritrade Network" tvg-name="TD Ameritrade Network" tvg-logo="https://a.jsrdn.com/hls/22849/ameritrade/logo_20200723_221433_48.png" group-title="News & Opinion",TD Ameritrade Network
 https://dai.google.com/linear/hls/event/oQS2LgwIScKmhvKfySHSuA/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYthefirst" tvg-name="The First" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22803/the-first/logo_20200226_002705.png" group-title="News & Opinion",The First
+https://dai.google.com/linear/hls/event/7u1U-TSrQI6g6V_Ul1kQvA/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYWION" tvg-name="WION" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png" group-title="News & Opinion",WION
 https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYABC6NewsRochester" tvg-name="ABC 6 News Rochester-Austin MN" tvg-logo="https://a.jsrdn.com/hls/22972/abc-6-news-rochester-austin-mn/logo_20210727_191445_68.png" group-title="Local News",ABC 6 News Rochester-Austin MN
@@ -307,13 +329,33 @@ https://dai.google.com/linear/hls/event/jyAhWsXeQjKtvXWsYd2vHA/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/WICioQJ2FO/c.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20211020_185655_68.png" group-title="Spanish & International",AfroLand TV
 https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=distro
+#EXTINF:-1 tvg-id="dtv_EPGCanela TV" tvg-name="CanelaTV" tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/logo_20200930_060553_68.png" group-title="Spanish & International",Canela.TV
+https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1205&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="Spanish & International",El Conflicto TV
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGEuronews Español" tvg-name="Euronews Espanol" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20201208_233556_68.png" group-title="Spanish & International",Euronews Espanol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/ewnsabres_spa.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGGlewed TV Spanish" tvg-name="GlewedTV Spanish" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="Spanish & International",GlewedTV Spanish
 https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGLatido Music" tvg-name="Latido Music" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22782/latido-music/logo_20191212_200115.png" group-title="Spanish & International",Latido Music
+https://dai.google.com/linear/hls/event/aPiz7a7gSxmsTO1cZ1DHeQ/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGMooviMex" tvg-name="MooviMex" tvg-logo="https://a.jsrdn.com/hls/22922/moovimex/logo_20201120_235617_26.png" group-title="Spanish & International",MooviMex
+https://dai.google.com/linear/hls/event/lj5QQH_5RX-yR2kwvxaiNg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPinoy Box Office" tvg-name="Pinoy Box Office" tvg-logo="https://a.jsrdn.com/hls/22913/pinoy-box-office/logo_20210119_204719_70.png" group-title="Spanish & International",Pinoy Box Office
 https://dai.google.com/linear/hls/event/85A5PwweTeKSM8y8h0yHhw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWappTV" tvg-name="WappTV" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20210805_160400_68.png" group-title="Spanish & International",WappTV
 https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYaweplus" tvg-name="AWE Plus" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/logo_20210112_230210_70.png" group-title="Travel & Lifestyle",AWE Plus
+https://dai.google.com/linear/hls/event/hefJPxVlTzWqtmz9UpFbwQ/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYbspoketv" tvg-name="Bspoketv" tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv-us/logo_20200603_013535.png" group-title="Travel & Lifestyle",Bspoketv
+https://bspoketv.s.llnwi.net/streams/distrotv-usa/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGCooking Panda" tvg-name="Cooking Panda" tvg-logo="https://a.jsrdn.com/hls/22882/cooking-panda/logo_20201006_170137_68.png" group-title="Travel & Lifestyle",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 tvg-id="dtv_EPGHERITAGE +" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22886/heritage/logo_20211019_211743_68.png" group-title="Travel & Lifestyle",Heritage+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Travel & Lifestyle",Journy
+https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYshoplc" tvg-name="Shop LC" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20210419_230336_68.png" group-title="Travel & Lifestyle",Shop LC
+https://dai.google.com/linear/hls/event/nANxB7juRzWgEvqGuiaudg/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGThe Love Destination" tvg-name="The Love Destination" tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="Travel & Lifestyle",The Love Destination
+https://api-ott.thelovedestination.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1635&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
