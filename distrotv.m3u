@@ -225,46 +225,8 @@ https://dai.google.com/linear/hls/event/tflhkHDiT0mDVDmxx5rbZA/master.m3u8
 https://dai.google.com/linear/hls/event/wNyZnV2XT5i6v2v2K3Otcg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGRock Alternative" tvg-name="Stingray Rock Alternative" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png" group-title="Music",Stingray Rock Alternative
 https://dai.google.com/linear/hls/event/WzpLZuhZRw6zfkETfx8h3g/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Hottest of the Hot" tvg-logo="https://a.jsrdn.com/hls/22895/hottest-of-the-hot/logo_20210428_191354_68.png" group-title="Music",Hottest of the Hot
-https://0b33bbebe5ca485d9a90b66a3d6435ef.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Trending" tvg-logo="https://a.jsrdn.com/hls/22895/trending/logo_20200909_010442_68.png" group-title="Music",Trending
-https://4fc8c9ea374c44e99993653a37b0a3c6.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Party" tvg-logo="https://a.jsrdn.com/hls/22895/party/logo_20210428_191738_68.png" group-title="Music",Party
-https://96e8245ad643419c8fe011f7e7625dc9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_distrotv/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGLoop Music Videos" tvg-name="Loop Music Videos" tvg-logo="https://a.jsrdn.com/hls/22895/loop-music-videos/logo_20210617_212834_68.png" group-title="Music",Loop Music Videos
 https://dai.google.com/linear/hls/event/rksjcKxKSGmRhJEK7UtotQ/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Can You Dig It" tvg-logo="https://a.jsrdn.com/hls/22895/can-you-dig-it/logo_20200909_011051_68.png" group-title="Music",Can You Dig It
-https://e3562d9b4aeb44bebe907ac25c2917ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Yacht Rock" tvg-logo="https://a.jsrdn.com/hls/22895/yacht-rock/logo_20200909_010153_68.png" group-title="Music",Yacht Rock
-https://a664d95a53d042edb10d6b28889bd25c.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="80s Party" tvg-logo="https://a.jsrdn.com/hls/22895/80s-party/logo_20210428_185523_68.png" group-title="Music",80s Party
-https://7c1bdc148c1f4998b84f4a4f92eebc63.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Only 90s Kids Will Understand" tvg-logo="https://a.jsrdn.com/hls/22895/only-90s-kids-will-understand/logo_20210428_185951_68.png" group-title="Music",Only 90s Kids Will Understand
-https://21835c8ec5b74cf892ad0d6e12344ae9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Thats Hot" tvg-logo="https://a.jsrdn.com/hls/22895/thats-hot/logo_20200909_010555_68.png" group-title="Music",That's Hot
-https://a9c952d731a2427d8e01903d3778c601.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Like Yesterday" tvg-logo="https://a.jsrdn.com/hls/22895/like-yesterday/logo_20200909_014621_68.png" group-title="Music",Like Yesterday
-https://bc3fa319cf6642c59e1128318f1a9cd9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Texas Sized Hits" tvg-logo="https://a.jsrdn.com/hls/22895/texas-sized-hits/logo_20210428_191942_68.png" group-title="Music",Texas Sized Hits
-https://4f2d3c1215b1408c9e6c9fd811b83832.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Neural Focused" tvg-logo="https://a.jsrdn.com/hls/22895/neural-focused/logo_20200909_202826_68.png" group-title="Music",Neural Focused
-https://bc555b434b5f44709a31ae6b102bf6a6.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Unwind" tvg-logo="https://a.jsrdn.com/hls/22895/unwind/logo_20200909_010332_68.png" group-title="Music",Unwind
-https://e5ec48fe8d5247f6891057812a8bb239.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Beast Mode" tvg-logo="https://a.jsrdn.com/hls/22895/beast-mode/logo_20200909_015707_68.png" group-title="Music",Beast Mode
-https://b56db7b027914c8cbf7aa8906f329001.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Hot R&B" tvg-logo="https://a.jsrdn.com/hls/22895/hot-r/logo_20200909_015050_68.png" group-title="Music",Hot R&B
-https://35df8214e04d41628cb6bfee857da769.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Hip-Hop Bangers" tvg-logo="https://a.jsrdn.com/hls/22895/hip-hop-bangers/logo_20210428_191054_68.png" group-title="Music",Hip-Hop Bangers
-https://8e472822fa394a759b7948ff1cf272bb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Friday Feels" tvg-logo="https://a.jsrdn.com/hls/22895/friday-feels/logo_20200909_015331_68.png" group-title="Music",Friday Feels
-https://3b77fd553d9c4044a8105c80a847ac5b.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Electro Anthems" tvg-logo="https://a.jsrdn.com/hls/22895/electro-anthems/logo_20200909_015512_68.png" group-title="Music",Electro Anthems
-https://8172757f4514438fa4feebfa046aacc9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Bedroom Beats" tvg-logo="https://a.jsrdn.com/hls/22895/bedroom-beats/logo_20200909_015606_68.png" group-title="Music",Bedroom Beats
-https://9a43c5fcc8e84ec69473a8c30f44524e.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYLoop" tvg-name="Latin x Pop" tvg-logo="https://a.jsrdn.com/hls/22895/latin-x-pop/logo_20200909_014745_68.png" group-title="Music",Latin x Pop
-https://fe1a75d9ccb041ec85e732043edc7147.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_distrotv/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-name="Fireplace Lounge" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Moods",Fireplace Lounge
 https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGFish Tank" tvg-name="Fish Tank" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fish-tank/logo_20200229_001442.png" group-title="Moods",Fish Tank
