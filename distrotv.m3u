@@ -61,7 +61,7 @@ https://dai.google.com/linear/hls/event/7D2Q73U6RpyYzJYog5Lx6Q/master.m3u8
 https://dai.google.com/linear/hls/event/UTF4M044RUKTjJ4DQv5jUQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDove Channel" tvg-name="Dove Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/dove-channel/logo_20191213_195855.png" group-title="Movies",Dove Channel
 https://dai.google.com/linear/hls/event/HYPAVeUNSiitRA7grlMeDw/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYEPGComingSoon" tvg-name="DreadTV" tvg-logo="https://a.jsrdn.com/hls/23007/dread-tv/logo_20211201_205430_68.png" group-title="Movies",DreadTV
+#EXTINF:-1 tvg-id="dtv_EPGDread TV" tvg-name="DreadTV" tvg-logo="https://a.jsrdn.com/hls/23007/dread-tv/logo_20211201_205430_68.png" group-title="Movies",DreadTV
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/FGOQJTJQAKINQ3CURZAA/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="DUMMYFrightFlix" tvg-name="Frightflix" tvg-logo="https://a.jsrdn.com/hls/22915/frightflix/logo_20201029_013121_68.png" group-title="Movies",Frightflix
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
@@ -135,7 +135,7 @@ https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Travel & Lifestyle",Journy
 https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYEPGComingSoon" tvg-name="Journys Bourdain All Day" tvg-logo="https://a.jsrdn.com/hls/22944/journys-bourdain-all-day/logo_20211112_185817_68.png" group-title="Travel & Lifestyle",Journy's Bourdain All Day
+#EXTINF:-1 tvg-id="dtv_EPGJOURNY’S Bourdain All Day" tvg-name="Journys Bourdain All Day" tvg-logo="https://a.jsrdn.com/hls/22944/journys-bourdain-all-day/logo_20211112_185817_68.png" group-title="Travel & Lifestyle",Journy's Bourdain All Day
 https://dai.google.com/linear/hls/event/4aSTLlESS6eAI0wotehXPg/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYshoplc" tvg-name="Shop LC" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20210419_230336_68.png" group-title="Travel & Lifestyle",Shop LC
 https://dai.google.com/linear/hls/event/nANxB7juRzWgEvqGuiaudg/master.m3u8
