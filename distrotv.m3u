@@ -305,6 +305,24 @@ https://dai.google.com/linear/hls/event/lj5QQH_5RX-yR2kwvxaiNg/master.m3u8
 https://dai.google.com/linear/hls/event/85A5PwweTeKSM8y8h0yHhw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWappTV" tvg-name="WappTV" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20210805_160400_68.png" group-title="Spanish & International",WappTV
 https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGChiquilines" tvg-name="Chiquilines" tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/logo_20211116_011430_68.png" group-title="Spanish & International",Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGCine Real" tvg-name="Cine Real" tvg-logo="https://a.jsrdn.com/hls/23008/cine-real/logo_20211119_204406_68.png" group-title="Spanish & International",Cine Real
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGCine Sureño" tvg-name="Cine Sureno" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/logo_20211116_010445_68.png" group-title="Spanish & International",Cine Sureno
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGFlash" tvg-name="Flash" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/logo_20211119_205104_68.png" group-title="Spanish & International",Flash
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGHorrorfy" tvg-name="Horrorfy" tvg-logo="https://a.jsrdn.com/hls/23008/horrorfy/logo_20211119_205238_68.png" group-title="Spanish & International",Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGJuntos" tvg-name="Juntos" tvg-logo="https://a.jsrdn.com/hls/23008/juntos/logo_20211119_205416_68.png" group-title="Spanish & International",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGSaber Más" tvg-name="Saber Mas" tvg-logo="https://a.jsrdn.com/hls/23008/saber-ms/logo_20211119_205804_68.png" group-title="Spanish & International",Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGTop Cine" tvg-name="Top Cine" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine/logo_20211119_205948_68.png" group-title="Spanish & International",Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcine-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGTu Cine" tvg-name="Tu Cine" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine/logo_20211029_183526_68.png" group-title="Spanish & International",Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="Republic World" tvg-logo="https://a.jsrdn.com/hls/22962/republic-world/logo_20211019_171505_68.png" group-title="Desi - Indian & South Asian",Republic World
 https://dai.google.com/linear/hls/event/buVDRAFXSy-cIVXRd8XwZg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMastiii - India’s No.1 Music and Youth Channel" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" group-title="Desi - Indian & South Asian",Mastiii
