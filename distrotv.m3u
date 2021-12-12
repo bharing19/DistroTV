@@ -137,9 +137,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGJOURNY’S Bourdain All Day" tvg-name="Journys Bourdain All Day" tvg-logo="https://a.jsrdn.com/hls/22944/journys-bourdain-all-day/logo_20211112_185817_68.png" group-title="Travel & Lifestyle",Journy's Bourdain All Day
 https://dai.google.com/linear/hls/event/4aSTLlESS6eAI0wotehXPg/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYEPGComingSoon" tvg-name="Pet Cult" tvg-logo="https://a.jsrdn.com/hls/23007/pet-cult/logo_20211208_211536_68.png" group-title="Travel & Lifestyle",Pet Cult
+#EXTINF:-1 tvg-id="dtv_EPGPet Cult" tvg-name="Pet Cult" tvg-logo="https://a.jsrdn.com/hls/23007/pet-cult/logo_20211208_211536_68.png" group-title="Travel & Lifestyle",Pet Cult
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/E22UL4G2UXN6WAK8OMT9/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 tvg-id="DUMMYEPGComingSoon" tvg-name="Planet Eat" tvg-logo="https://a.jsrdn.com/hls/23007/planet-eat/logo_20211206_202221_68.png" group-title="Travel & Lifestyle",Planet Eat
+#EXTINF:-1 tvg-id="dtv_EPGPlanet Eat" tvg-name="Planet Eat" tvg-logo="https://a.jsrdn.com/hls/23007/planet-eat/logo_20211206_202221_68.png" group-title="Travel & Lifestyle",Planet Eat
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/CGRZTHU6325VQYP0HJMX/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="DUMMYshoplc" tvg-name="Shop LC" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20210419_230336_68.png" group-title="Travel & Lifestyle",Shop LC
 https://dai.google.com/linear/hls/event/nANxB7juRzWgEvqGuiaudg/master.m3u8
